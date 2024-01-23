@@ -1,0 +1,26 @@
+{
+    "days" : [
+    {
+            "day": "2024-01-01",
+            "meals": [
+            {"type": "breakfast", "status": "DELIVERED"
+            },
+            {"type": "lunch", "status": "PENDING"
+            },
+            {"type": "dinner", "status": "CANCELED"
+            }
+        ]
+    },
+    {
+            "day": "2024-01-02",
+            "meals": [
+            {"type": "breakfast", "status": "DELIVERED"
+            },
+            {"type": "lunch", "status": "DELIVERED"
+            },
+            {"type": "dinner", "status": "DELIVERED"
+            }
+        ]
+    }
+]
+}
